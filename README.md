@@ -1,16 +1,15 @@
-## Hi there 👋
+## Callum (lighthousey)
 
-<!--
-**lighthousey/lighthousey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Callum. I'm a Brit with an interest in digging into video games and web applications to understand how they work and connect.
 
-Here are some ideas to get you started:
+### Experience
+Prior languages, tools and software I have experience in either using (casually and professionally) or developing with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+[![Languages](https://skills.syvixor.com/api/icons?i=sql,html,css,lua,cs,js,py)](https://github.com/syvixor/skills-icons)
+
+Software and Applications:
+[![Tools](https://skills.syvixor.com/api/icons?perline=15&i=windows,android,ios,canva,microsoftword,googleslides,microsoftpowerpoint,microsoftaccess,microsoftonenote,microsoftteams,microsoftexcel,googlesheets,microsoftproject,drawio,github,dnspy,davinciresolve,visualstudio,visualstudiocode,cloudflare,wordpress,discord,telegram,x)](https://github.com/syvixor/skills-icons)
+
+### Interests:
+For the last few years, I've had an interest in modding [Grand Theft Auto V](https://www.rockstargames.com/gta-v) on [FiveM](https://fivem.net). Day to day, I have an interest in boating and nature.
